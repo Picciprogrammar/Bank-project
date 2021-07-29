@@ -1,0 +1,33 @@
+body{
+    padding: 100px;
+}
+.submite-area{
+    margin-top: 50px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+#second-page{
+    display: none;
+}
+.balance{
+    
+    background-color: indianred;
+}
+.withdraw{
+    
+    background-color: lightsalmon;
+}
+.depoit{
+    
+    background-color: slateblue;
+}
+.stuts{
+    padding: 20px;
+    margin: 0px 20px;
+    border-radius: 10px;
+    color: white;
+}
+#same-page{
+    display: none;
+}
